@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Core1</string>
+    <string name="sum"></string>
+    <string name="score">score</string>
+    <string name="steal">steal</string>
+    <string name="reset">reset</string>
+    <string name="_0">0</string>
+</resources>
